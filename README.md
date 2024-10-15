@@ -8,7 +8,13 @@ Extension installées:
           WPForms
           Yoast SEO
 
-Mis en place en local sur Wamp64.
+Mis en place en local à partir de Wamp64.
+
+
+Titre du site: la vie des plantes
+Nom de la base de données : la_vie_des_plantes
+identifiant: mariepierre
+Mot de passe : SitempF01#
           
           
           
