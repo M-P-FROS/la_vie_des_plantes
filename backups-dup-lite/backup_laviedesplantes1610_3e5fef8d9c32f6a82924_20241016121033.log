@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 16 October 2024 12h11
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11.1
+WORDPRESS:	6.6.2
+PHP INFO:	8.2.18 | SAPI: apache2handler
+SERVER:		Apache/2.4.59 (Win64) PHP/8.2.18 mod_fcgid/2.3.10-dev 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 58MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:68 | filtered:0 | create:68
+FILTERED: []
+SQL CREATED: backup_laviedesplantes1610_3e5fef8d9c32f6a82924_20241016121033_database.sql
+SQL FILE SIZE: 5.45MB (5713074)
+SQL FILE TIME: 2024-10-16 12:11:16
+SQL RUNTIME: 2.10 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/la_vie_des_plantes
+ARCHIVE FILE: backup_laviedesplantes1610_3e5fef8d9c32f6a82924_20241016121033_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	343.62MB
+STATS:	Dirs 3,907 | Files 24,517
+SQL ADDED: backup_laviedesplantes1610_3e5fef8d9c32f6a82924_20241016121033_database.sql
+ZipArchive Object
+(
+    [lastId] => 28423
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 28424
+    [filename] => C:\wamp64\www\la_vie_des_plantes\wp-content\backups-dup-lite\tmp\backup_laviedesplantes1610_3e5fef8d9c32f6a82924_20241016121033_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 28423
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 129.02MB
+ARCHIVE RUNTIME: 49.89 sec.
+MEMORY STACK: 64MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.45MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 131.3MB 
+EXPECTED FILE/DIRECTORY COUNT: 28,424
+ACTUAL FILE/DIRECTORY COUNT: 28,423
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 56.00 sec.
+PEAK PHP MEMORY USED: 68MB
+DONE PROCESSING => backup_laviedesplantes1610 16 October 2024 12h12
+
